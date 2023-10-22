@@ -21,8 +21,8 @@ role: Doctoral Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of Helsinki
-    url: https://www.stanford.edu/
+  - name: Pervasive Data Science Group, University of Helsinki
+    url: https://www.cs.helsinki.fi/group/pds/index.html
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include pervasive systems, data science and the Internet of Things.
@@ -37,13 +37,13 @@ interests:
 education:
   courses:
     - course: MSc. in Computer Science
-      institution: Stanford University
+      institution: University of Helsinki, Finland
       year: 2018
     - course: Postgraduate Programme in Automation
       institution: University of Buenos Aires, Argentina
       year: 2009
     - course: BSc in Informatics
-      institution: Un
+      institution: Universidad Catolica del Ecuador, Ecuador
       year: 2007
 
 # Skills
@@ -64,7 +64,7 @@ skills:
     - name: Internet of Things
       description: ''
       percent: 80
-      icon: futbol
+      icon: house-signal
       icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
@@ -72,13 +72,13 @@ skills:
     items:
       - name: Hiking
         description: ''
-        percent: 60
+        percent: 80
         icon: person-hiking
         icon_pack: fas
       - name: Football
         description: ''
-        percent: 80
-        icon: camera-retro
+        percent: 70
+        icon: futbol
         icon_pack: fas
 
 # Social/Academic Networking
