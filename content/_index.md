@@ -178,7 +178,7 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
-  - #block: markdown
+  #- block: markdown
     #content:
     #  title: Gallery
     #  subtitle: ''
@@ -186,7 +186,7 @@ sections:
     #    {{< gallery album="demo" >}}
     #design:
     #  columns: '1'
-  - #block: collection
+  #- block: collection
     #id: featured
     #content:
     #  title: Featured Publications
@@ -197,7 +197,7 @@ sections:
     #design:
     #  columns: '2'
     #  view: card
-  - #block: collection
+  #- block: collection
     #content:
     #  title: Recent Publications
     #  text: |-
@@ -211,7 +211,7 @@ sections:
     #design:
     #  columns: '2'
     #  view: citation
-  - #block: collection
+  #- block: collection
     #id: talks
     #content:
     #  title: Recent & Upcoming Talks
@@ -221,12 +221,12 @@ sections:
     #design:
     #  columns: '2'
     #  view: compact
-  - #block: tag_cloud
+  #- block: tag_cloud
     #content:
     #  title: Popular Topics
     #design:
     #  columns: '2'
-  - #block: contact
+  #- block: contact
     #id: contact
     #content:
     #  title: Contact
