@@ -1,6 +1,6 @@
 ---
 # Display name
-title: MSc.
+title: PhD.
 
 # Name pronunciation (optional)
 name_pronunciation: ''
@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Doctoral Researcher
+role: Postdoctoral Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -36,6 +36,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
+    - course: PhD. in Computer Science
+      institution: University of Helsinki, Finland
+      year: 2023
     - course: MSc. in Computer Science
       institution: University of Helsinki, Finland
       year: 2018
