@@ -38,16 +38,17 @@ education:
   courses:
     - course: PhD. in Computer Science
       institution: University of Helsinki, Finland
-      year: 2023
+      year: Nov, 2023
+      distinction: Graduated with Distinction
     - course: MSc. in Computer Science
       institution: University of Helsinki, Finland
-      year: 2018
+      year: Nov, 2018
     - course: Postgraduate Programme in Automation
       institution: University of Buenos Aires, Argentina
-      year: 2009
+      year: Sep, 2009
     - course: BSc in Informatics
       institution: Universidad Catolica del Ecuador, Ecuador
-      year: 2007
+      year: Aug, 2007
 
 # Skills
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -118,5 +119,5 @@ social:
 highlight_name: true
 ---
 
-Agustin Zuniga is a doctoral researcher of pervasive data science and IoT at Pervasive Data Science reserach group, University of Helsinki, Finland. His research interests include low-cost sensing sytems, the sensing pipeline and multi-device mobile systems.
+Agustin Zuniga is a postdoctoral researcher of pervasive data science and IoT at Pervasive Data Science reserach group, University of Helsinki, Finland. His research interests include low-cost sensing sytems, the sensing pipeline and multi-device mobile systems.
 {style="text-align: justify;"}
