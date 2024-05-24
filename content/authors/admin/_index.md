@@ -113,7 +113,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: ''
+    link: 'https://agustin-zuniga.com/CV_AgustinZuniga.pdf'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
