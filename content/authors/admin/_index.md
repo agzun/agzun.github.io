@@ -1,6 +1,6 @@
 ---
 # Display name
-title: PhD.
+title: PhD
 
 # Name pronunciation (optional)
 name_pronunciation: ''
