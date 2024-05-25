@@ -21,7 +21,7 @@ role: Postdoctoral Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Pervasive Data Science Group, University of Helsinki
+  - name: Department of Computer Science, University of Helsinki
     url: https://www.cs.helsinki.fi/group/pds/index.html
 
 # Short bio (displayed in user profile at end of posts)
@@ -30,8 +30,9 @@ bio: My research interests include pervasive systems, data science and the Inter
 # Interests to show in About widget
 interests:
   - Pervasive Data Science
-  - Machine Learning
-  - IoT
+  - Artificial Intelligence of Things
+  - Internet of Things
+  - Artificial Intelligence
 
 # Education to show in About widget
 education:
