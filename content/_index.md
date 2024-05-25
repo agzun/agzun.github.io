@@ -234,14 +234,14 @@ sections:
       email: agustin.zuniga@helsinki.fi
     #  phone: 888 888 88 88
     #  appointment_url: 'https://calendly.com'
+      directions: Department of Computer Science, Exactum building, B235.
       address:
-       street:  Department of Computer Science, Exactum building
+       street:  PO Box 68, FI-00014 University of Helsinki
        #city: University of Helsinki
        #region: Finland
-       postcode: 'B235.'
+       postcode: 'Finland.'
       #country: Finland
       #country_code: FI
-      directions: PO Box 68, FI-00014 University of Helsinki, Finland.
     #  office_hours:
     #    - 'Monday 10:00 to 13:00'
     #    - 'Wednesday 09:00 to 10:00'
