@@ -1,6 +1,6 @@
 ---
 # Display name
-title: PhD.
+title: Postdoctoral Researcher
 
 # Name pronunciation (optional)
 name_pronunciation: ''
@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral Researcher
+role: Pervasive Data Science group
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -56,11 +56,6 @@ education:
 skills:
   - name: Technical
     items:
-    - name: Programming
-      description: ''
-      percent: 80
-      icon: python
-      icon_pack: fab
     - name: Data Science
       description: ''
       percent: 80
@@ -71,6 +66,11 @@ skills:
       percent: 80
       icon: house-signal
       icon_pack: fas
+      - name: Programming
+      description: ''
+      percent: 80
+      icon: python
+      icon_pack: fab
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -119,6 +119,9 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+I am a postdoctoral researcher of computer science at the Department of Computer Science, University of Helsinki, Finland. I received my PhD on computer science in December 2023. My research is dedicated to advancing data quality, sensing and modelling methods in Pervasive Data Science (PDS) and Artificial Intelligence of Things (AIoT). I am particularly passionate about developing innovative, cost-effective solutions for intelligent sensing pipelines that support end-user applications and contribute to sustainable ecosystems. 
 
-Agustin Zuniga is a postdoctoral researcher of pervasive data science and IoT at Pervasive Data Science reserach group, University of Helsinki, Finland. His research interests include low-cost sensing sytems, the sensing pipeline and multi-device mobile systems.
+I contribute actively to the research community, especially ACM (SIGMOBILE) and IEEE, publishing in top-tier conferences and journals like The Web Conference, IEEE PerCom, ACM IMWUT, and IEEE Pervasive Computing; and serving as reviewer for major conferences and journals, including Scientific Reports, ACM IMWUT, ACM ITICSE, Pervasive and Mobile Computing, and IEEE Pervasive Computing.
+
+In addition to my research activities, my teaching philosophy centers on creating dynamic learning environments that prioritize student-centered approaches and facilitate learning through reflection and interaction. Committed to democratizing science, I co-created the Introduction to the IOT MOOC (https://iot.mooc.fi), which currently has over 600 students.
 {style="text-align: justify;"}
