@@ -36,6 +36,7 @@ summary: ...
 
 tags:
 - Source Themes
+- Publications
 featured: true
 
 # links:
