@@ -241,7 +241,7 @@ sections:
        postcode: 'PO Box 68, FI-00014 University of Helsinki, Finland.'
       #country: Finland
       #country_code: FI
-    # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+      directions: FI-00014 University of Helsinki, Finland.
     #  office_hours:
     #    - 'Monday 10:00 to 13:00'
     #    - 'Wednesday 09:00 to 10:00'
