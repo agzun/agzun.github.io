@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Postdoctoral Researcher
+title: Agustin Zuniga
 
 # Name pronunciation (optional)
 name_pronunciation: ''
