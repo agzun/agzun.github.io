@@ -28,63 +28,63 @@ organizations:
 bio: Dr. Agustin Zuniga works in the areas of pervasive data science and artificial intelligence of things, especially in low-cost sensing and intelligent sensing pipeline solutions.
 
 # Interests to show in About widget
-interests:
-  - Pervasive Data Science
-  - Artificial Intelligence of Things
-  - Internet of Things
-  - Artificial Intelligence
+#interests:
+#  - Pervasive Data Science
+#  - Artificial Intelligence of Things
+#  - Internet of Things
+#  - Artificial Intelligence
 
 # Education to show in About widget
-education:
-  courses:
-    - course: PhD. in Computer Science
-      institution: University of Helsinki, Finland
-      year: Nov, 2023
-      distinction: Graduated with Distinction
-    - course: MSc. in Computer Science
-      institution: University of Helsinki, Finland
-      year: Nov, 2018
-    - course: Postgraduate Programme in Automation
-      institution: University of Buenos Aires, Argentina
-      year: Sep, 2009
-    - course: BSc in Informatics
-      institution: Universidad Catolica del Ecuador, Ecuador
-      year: Aug, 2007
+#education:
+#  courses:
+#    - course: PhD. in Computer Science
+#      institution: University of Helsinki, Finland
+#      year: Nov, 2023
+#      distinction: Graduated with Distinction
+#    - course: MSc. in Computer Science
+#      institution: University of Helsinki, Finland
+#      year: Nov, 2018
+#    - course: Postgraduate Programme in Automation
+#      institution: University of Buenos Aires, Argentina
+#      year: Sep, 2009
+#    - course: BSc in Informatics
+#      institution: Universidad Catolica del Ecuador, Ecuador
+#      year: Aug, 2007
 
 # Skills
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-skills:
-  - name: Technical
-    items:
-    - name: Data Science
-      description: ''
-      percent: 80
-      icon: chart-line
-      icon_pack: fas
-    - name: Internet of Things
-      description: ''
-      percent: 80
-      icon: house-signal
-      icon_pack: fas
-    - name: Programming
-      description: ''
-      percent: 80
-      icon: python
-      icon_pack: fas
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 80
-        icon: person-hiking
-        icon_pack: fas
-      - name: Football
-        description: ''
-        percent: 70
-        icon: futbol
-        icon_pack: fas
+#skills:
+#  - name: Technical
+#    items:
+#    - name: Data Science
+#      description: ''
+#      percent: 80
+#      icon: chart-line
+#      icon_pack: fas
+#    - name: Internet of Things
+#      description: ''
+#      percent: 80
+#      icon: house-signal
+#      icon_pack: fas
+#    - name: Programming
+#      description: ''
+#      percent: 80
+#      icon: python
+#      icon_pack: fas
+#  - name: Hobbies
+#    color: '#eeac02'
+#    color_border: '#f0bf23'
+#    items:
+#      - name: Hiking
+#        description: ''
+#        percent: 80
+#        icon: person-hiking
+#        icon_pack: fas
+#      - name: Football
+#        description: ''
+#        percent: 70
+#        icon: futbol
+#        icon_pack: fas
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons

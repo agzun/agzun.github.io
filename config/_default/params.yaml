@@ -90,7 +90,7 @@ features:
       category: ''
       category_id: ''
   search:
-    provider: wowchemy
+    provider: google #wowchemy
     algolia:
       app_id: ''
       api_key: ''
