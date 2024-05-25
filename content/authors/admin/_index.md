@@ -66,7 +66,7 @@ skills:
       percent: 80
       icon: house-signal
       icon_pack: fas
-      - name: Programming
+    - name: Programming
       description: ''
       percent: 80
       icon: python
