@@ -186,18 +186,19 @@ sections:
     #    {{< gallery album="demo" >}}
     #design:
     #  columns: '1'
+  #- block: collection
+    #id: featured
+    #content:
+      #title: Featured Publications
+      #filters:
+        #folders:
+          #- publication
+        #featured_only: false
+    #design:
+      #columns: '2'
+      #view: citation
   - block: collection
     id: featured
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: false
-    design:
-      columns: '2'
-      view: citation
-  - block: collection
     content:
       title: Recent Publications
       text: |-
