@@ -235,9 +235,10 @@ sections:
     #  phone: 888 888 88 88
     #  appointment_url: 'https://calendly.com'
       address:
-       street:  University of Helsinki, Department of Computer Science. Exactum building, Pietari Kalmin katu 5
+       street:  University of Helsinki, Department of Computer Science. 
+       Exactum building, Pietari Kalmin katu 5
        city: Helsinki
-    #    region: CA
+       region: Finland
     #    postcode: '94305'
       country: Finland
       country_code: FI
