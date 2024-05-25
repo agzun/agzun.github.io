@@ -239,8 +239,8 @@ sections:
        city: Helsinki
     #    region: CA
     #    postcode: '94305'
-        country: Finland
-        country_code: FI
+      country: Finland
+      country_code: FI
     # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
     #  office_hours:
     #    - 'Monday 10:00 to 13:00'
@@ -268,6 +268,6 @@ sections:
     #    netlify:
     #      # Enable CAPTCHA challenge to reduce spam?
     #      captcha: false
-    #design:
-    #  columns: '2'
+    design:
+      columns: '2'
 ---
