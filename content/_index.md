@@ -10,9 +10,9 @@ sections:
     content:
       title: Agustin Zuniga
       image:
-        filename: hero-academic.png
+        filename: avatar.jpeg
       cta:
-        label: '**Department of Computer Science, University of Helsinki**'
+        label: 'Department of Computer Science, University of Helsinki'
         url: https://www.helsinki.fi/en
       #cta_alt:
       #  label: Ask a question
@@ -21,7 +21,7 @@ sections:
       #  label: >-
       #    <div style="text-shadow: none;"><a class="github-button" href="https://github.com/wowchemy/starter-hugo-academic" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star">Star the Academic template</a></div>
       text: |-
-        *Dr. Zuniga works in the areas of Pervasive Data Science and Artificial Intelligence of Things, especially in low-cost sensing and intelligent sensing pipeline solutions.*
+        Dr. Zuniga works in the areas of Pervasive Data Science and Artificial Intelligence of Things, especially in low-cost sensing and intelligent sensing pipeline solutions.
 
         <!--Custom spacing-->
         <div class="mb-3"></div>
