@@ -223,24 +223,24 @@ sections:
     #  title: Popular Topics
     #design:
     #  columns: '2'
-  #- block: contact
-    #id: contact
-    #content:
-    #  title: Contact
+  - block: contact
+    id: contact
+    content:
+      title: Contact
     #  subtitle:
     #  text: |-
     #    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
     #  # Contact (add or remove contact options as necessary)
-    #  email: test@example.org
+      email: agustin.zuniga@helsinki.fi
     #  phone: 888 888 88 88
     #  appointment_url: 'https://calendly.com'
-    #  address:
-    #    street: 450 Serra Mall
-    #   city: Stanford
+      address:
+       street: Exactum building, Pietari Kalmin katu 5
+       city: Helsinki
     #    region: CA
     #    postcode: '94305'
-    #    country: United States
-    #    country_code: US
+        country: Finland
+        country_code: FI
     # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
     #  office_hours:
     #    - 'Monday 10:00 to 13:00'
