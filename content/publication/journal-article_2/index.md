@@ -13,7 +13,7 @@ authors:
 #author_notes:
 #- "Equal contribution"
 #- "Equal contribution"
-date: "2022-06-01T00:00:00Z"
+date: "2022-05-09T00:00:00Z"
 doi: "https://doi.org/10.1109/MC.2022.3143087"
 
 # Schedule page publish date (NOT publication's date).
@@ -28,7 +28,8 @@ publication_types: ["article-journal"]
 publication: "*IEEE Computer* 55(5), 39-50"
 publication_short: ""
 
-abstract: ....
+abstract: Machine and deep learning (DL) offer significant opportunities for exploring and monitoring oceans and for tackling important problems ranging from litter and oil spill detection to marine biodiversity estimation. Reasonably priced hardware platforms, in the form of autonomous (AUV) and remote operated (ROV) underwater vehicles, are also becoming available, fuelling the growth of data and offering new types of application areas. DL not only supports emerging applications that harness this data but offers support for operating such platforms. This article presents a research vision for DL in the oceans, collating
+applications and use cases, identifying opportunities, constraints, and open research challenges. We conduct experiments on underwater marine litter detection to demonstrate the benefits DL can bring to underwater environments. Our results show that integrating DL in underwater explorations can automate and scale-up monitoring, and highlight practical challenges in enabling underwater operations. We also provide a research roadmap for the path forward.
 
 # Summary. An optional shortened abstract.
 summary: ...
