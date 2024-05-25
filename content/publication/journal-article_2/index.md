@@ -54,7 +54,7 @@ url_pdf: "https://helda.helsinki.fi/bitstreams/66ca45ec-b697-4f83-a002-858302cd7
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
   focal_point: ""
-  preview_only: false
+  preview_only: true
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
