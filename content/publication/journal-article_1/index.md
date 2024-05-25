@@ -12,11 +12,11 @@ authors:
 #author_notes:
 #- "Equal contribution"
 #- "Equal contribution"
-date: "2021" #"2021-09-01T00:00:00Z"
+date: "2021-06-01T00:00:00Z"
 doi: "https://doi.org/10.1109/IOTM.0011.2000057"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2021-06-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -24,7 +24,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*IEEE Internet of Things Magazine 4*(1), 40-45"
+publication: "*IEEE Internet of Things Magazine* 4(1), 40-45"
 publication_short: ""
 
 abstract: ....
