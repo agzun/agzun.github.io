@@ -198,7 +198,7 @@ sections:
       #columns: '2'
       #view: citation
   - block: collection
-    id: featured
+    id: publications
     content:
       title: Publications
       text: |-
