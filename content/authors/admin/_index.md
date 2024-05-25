@@ -25,7 +25,7 @@ organizations:
     url: https://www.cs.helsinki.fi/group/pds/index.html
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include pervasive systems, data science and the Internet of Things.
+bio: Dr. Agustin Zuniga works in the areas of pervasive data science and artificial intelligence of things, especially in low-cost sensing and intelligent sensing pipeline solutions.
 
 # Interests to show in About widget
 interests:
