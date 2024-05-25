@@ -31,13 +31,12 @@ publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
 publication: In *The World Wide Web Conference*
-publication_short: In *WWW*
+publication_short: In *The World Wide Web Conference*
 
 abstract: We contribute by quantifying the effect of network latency and battery consumption on mobile app performance and retention, i.e., user's decisions to continue or stop using apps. We perform our analysis by fusing two large-scale crowdsensed datasets collected by piggybacking on information captured by mobile apps. We find that app performance has an impact in its retention rate. Our results demonstrate that high energy consumption and high latency decrease the likelihood of retaining an app. Conversely, we show that reducing latency or energy consumption does not guarantee higher likelihood of retention as long as they are within reasonable standards of performance. However, we also demonstrate that what is considered reasonable depends on what users have been accustomed to, with device and network characteristics, and app category playing a role. As our second contribution, we develop a model for predicting retention based on performance metrics. We demonstrate the benefits of our model through empirical benchmarks which show that our model not only predicts retention accurately, but generalizes well across application categories, locations and other factors moderating the effect of performance.
 
 # Summary. An optional shortened abstract.
 summary: "..."
-
 tags: []
 
 # Display this page in the Featured widget?

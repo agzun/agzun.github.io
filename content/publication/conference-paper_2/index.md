@@ -32,7 +32,7 @@ publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
 publication: In *IEEE International Conference on Pervasive Computing and Communications*
-publication_short: In *PerCom*
+publication_short: In *IEEE International Conference on Pervasive Computing and Communications*
 
 abstract: Pervasive availability of programmable smart de-vices is giving rise to sensing and computing scenarios that involve collaboration between multiple devices. Maximizing the benefits of collaboration requires careful selection of devices with whom to collaborate as otherwise collaboration may be interrupted prematurely or be sub-optimal for the characteristics of the task at hand. Existing research on collaborative scenarios has mostly focused on providing mechanisms that can establish and harness collaboration, without considering how to maximally benefit from it. In this paper, we contribute by developing COSINE as a novel approach for selecting collaborators in multi-device computing scenarios. COSINE identifies and recommends collaborators based on a novel information theoretic measure based on Markov trajectory entropy. Rigorous experimental benchmarks carried out using a large-scale dataset of device-to-device encounters demonstrate that COSINE can significantly improve collaboration benefits compared to current state-of-the-art solutions, increasing expected duration of collaboration and reducing variability of collaborations..
 
