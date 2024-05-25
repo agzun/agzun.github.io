@@ -13,7 +13,7 @@ authors:
 #- "Equal contribution"
 #- "Equal contribution"
 date: "2021" #"2021-09-01T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.1109/IOTM.0011.2000057"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -39,7 +39,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: "https://tuhat.helsinki.fi/ws/files/156821613/Toward_Large_Scale_Autonomous_Marine_Pollution_Monitoring.pdf"
 #url_code: ''
 #url_dataset: ''
 #url_poster: ''
