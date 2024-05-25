@@ -235,13 +235,13 @@ sections:
     #  phone: 888 888 88 88
     #  appointment_url: 'https://calendly.com'
       address:
-       street:  Department of Computer Science. Exactum building, B235
+       street:  Department of Computer Science, Exactum building
        #city: University of Helsinki
        #region: Finland
-       postcode: 'PO Box 68, FI-00014 University of Helsinki, Finland.'
+       postcode: 'B235.'
       #country: Finland
       #country_code: FI
-      directions: FI-00014 University of Helsinki, Finland.
+      directions: PO Box 68, FI-00014 University of Helsinki, Finland.
     #  office_hours:
     #    - 'Monday 10:00 to 13:00'
     #    - 'Wednesday 09:00 to 10:00'
