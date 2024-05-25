@@ -30,16 +30,11 @@ publication_short: ""
 abstract: ....
 
 # Summary. An optional shortened abstract.
-summary: "..."
+#summary: "..."
 
-tags:
-- Source Themes
-- Publications
-
-featured: True
-
-# Summary. An optional shortened abstract.
-summary: "..."
+#tags:
+#- Source Themes
+featured: False
 
 # links:
 # - name: ""

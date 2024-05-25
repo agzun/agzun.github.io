@@ -33,13 +33,13 @@ abstract: "Machine and deep learning (DL) offer significant opportunities for ex
 applications and use cases, identifying opportunities, constraints, and open research challenges. We conduct experiments on underwater marine litter detection to demonstrate the benefits DL can bring to underwater environments. Our results show that integrating DL in underwater explorations can automate and scale-up monitoring, and highlight practical challenges in enabling underwater operations. We also provide a research roadmap for the path forward."
 
 # Summary. An optional shortened abstract.
-summary: "..."
+#summary: "..."
 
-tags:
-- Source Themes
-- Publications
+#tags:
+#- Source Themes
+
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # links:
 # - name: ""
