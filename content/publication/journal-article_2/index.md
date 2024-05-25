@@ -22,7 +22,8 @@ publishDate: "2022-06-01T00:00:00Z"
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article-journal"]
+publication_types: ["article-journal"] 
+#publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*IEEE Computer* 55(5), 39-50"
@@ -32,11 +33,12 @@ abstract: "Machine and deep learning (DL) offer significant opportunities for ex
 applications and use cases, identifying opportunities, constraints, and open research challenges. We conduct experiments on underwater marine litter detection to demonstrate the benefits DL can bring to underwater environments. Our results show that integrating DL in underwater explorations can automate and scale-up monitoring, and highlight practical challenges in enabling underwater operations. We also provide a research roadmap for the path forward."
 
 # Summary. An optional shortened abstract.
-summary: ...
+summary: "..."
 
 tags:
 - Source Themes
 - Publications
+# Display this page in the Featured widget?
 featured: true
 
 # links:
