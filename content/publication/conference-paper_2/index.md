@@ -20,7 +20,7 @@ authors:
 #  - 'Equal contribution'
 
 date: '2020-03-23T00:00:00Z'
-doi: 'https://doi.org/10.1145/3308558.3313428'
+doi: 'https://doi.org/10.1109/PerCom45495.2020.9127364'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2020-03-23T00:00:00Z'
