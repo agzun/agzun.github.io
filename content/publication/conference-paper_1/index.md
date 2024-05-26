@@ -62,6 +62,7 @@ url_pdf: 'https://helda.helsinki.fi/bitstreams/cb943aa4-3bb9-4b02-83df-925953666
 #  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
 #  focal_point: ''
 #  preview_only: false
+# to add figure add a figure with the name: featured.jpg
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
