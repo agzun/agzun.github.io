@@ -24,8 +24,8 @@ publishDate: "2021-06-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: *IEEE Internet of Things Magazine* 4(1), 40-45
-publication_short: *IEEE Internet of Things Magazine* 4(1), 40-45
+publication: In *IEEE Internet of Things Magazine* 4(1), 40-45
+publication_short: In *IEEE Internet of Things Magazine* 4(1), 40-45
 
 abstract: ....
 

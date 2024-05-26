@@ -24,8 +24,8 @@ publication_types: ["article-journal"]
 #publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: *GetMobile: Mobile Computing and Communications* 23(3), 5-8
-publication_short: *GetMobile: Mobile Computing and Communications* 23(3), 5-8
+publication: In *Mobile Computing and Communications (GetMobile)* 23(3), 5-8
+publication_short: In *Mobile Computing and Communications (GetMobile)* 23(3), 5-8
 
 abstract: "With great power comes - besides great responsibility - big energy drain, especially where Internet of Things (IoT) devices are considered. Indeed, despite significant improvements in design and manufacturing, energy efficiency remains a critical design consideration for IoT, particularly for devices operating continuous sensing. The energy footprint of these devices has traditionally been measured using hardware power monitors (such as Monsoon power meter), which provide an accurate view of instantaneous power use. However, power meters require direct connection with the device's power source (such as battery) and hence can be used to measure energy drain only on devices with detachable power sources."
 
