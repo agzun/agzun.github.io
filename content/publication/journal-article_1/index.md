@@ -27,7 +27,7 @@ publication_types: ["article-journal"]
 publication: In *IEEE Internet of Things Magazine* 4(1), 40-45
 publication_short: In *IEEE Internet of Things Magazine* 4(1), 40-45
 
-abstract: ....
+abstract: Marine pollution is a growing worldwide concern, affecting the health of marine ecosystems, human health, and weather patterns. To reduce underwater pollution, it is critical to have access to accurate information about the extent of marine pollutants, as otherwise appropriate countermeasures and cleaning measures cannot be chosen. Currently, such information is difficult to acquire as existing monitoring solutions are highly laborious or costly, limited to specific pollutants, and have limited spatial and temporal resolution. In this article, we present a research vision of large-scale autonomous marine pollution monitoring that uses coordinated groups of autonomous underwater vehicles to monitor the extent and characteristics of marine pollutants. We highlight key requirements and reference technologies to establish a research roadmap for realizing this vision. We also address the feasibility of our vision, carrying out controlled experiments that address classification of pollutants and collaborative underwater processing, two key research challenges for our vision.
 
 # Summary. An optional shortened abstract.
 #summary: "..."
@@ -68,14 +68,14 @@ url_pdf: "https://tuhat.helsinki.fi/ws/files/156821613/Toward_Large_Scale_Autono
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 #slides: example
+
+#{{% callout note %}}
+#Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+#{{% /callout %}}
+
+#{{% callout note %}}
+#Create your slides in Markdown - click the *Slides* button to check out the example.
+#{{% /callout %}}
+
+#Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://wowchemy.com/docs/content/writing-markdown-latex/).
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://wowchemy.com/docs/content/writing-markdown-latex/).
