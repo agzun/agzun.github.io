@@ -1,23 +1,21 @@
 ---
-title: "Deep learning and the oceans"
+title: "Estimating Energy Footprint using Thermal Imaging"
 authors:
-- Marko Radeta
-- admin
-- Naser Hossein Motlagh
-- Mohan Liyanage
-- Ruben Freitas
-- Moustafa Youssef
-- Sasu Tarkoma
-- Huber Flores 
-- Petteri Nurmi 
+- Huber Flores
+- Jonatan Hamberg
+- Xin Li
+- Titti Malmivirta
+- admin 
+- Eemil Lagerspetz
+- Petteri Nurmi
 #author_notes:
 #- "Equal contribution"
 #- "Equal contribution"
-date: "2022-05-09T00:00:00Z"
+date: "2020-10-01T00:00:00Z"
 doi: "https://doi.org/10.1109/MC.2022.3143087"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2022-06-01T00:00:00Z"
+publishDate: "2020-10-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -26,11 +24,10 @@ publication_types: ["article-journal"]
 #publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*IEEE Computer* 55(5), 39-50"
-publication_short: ""
+publication: *GetMobile: Mobile Computing and Communications* 23(3), 5-8
+publication_short: *GetMobile: Mobile Computing and Communications* 23(3), 5-8
 
-abstract: "Machine and deep learning (DL) offer significant opportunities for exploring and monitoring oceans and for tackling important problems ranging from litter and oil spill detection to marine biodiversity estimation. Reasonably priced hardware platforms, in the form of autonomous (AUV) and remote operated (ROV) underwater vehicles, are also becoming available, fuelling the growth of data and offering new types of application areas. DL not only supports emerging applications that harness this data but offers support for operating such platforms. This article presents a research vision for DL in the oceans, collating
-applications and use cases, identifying opportunities, constraints, and open research challenges. We conduct experiments on underwater marine litter detection to demonstrate the benefits DL can bring to underwater environments. Our results show that integrating DL in underwater explorations can automate and scale-up monitoring, and highlight practical challenges in enabling underwater operations. We also provide a research roadmap for the path forward."
+abstract: "With great power comes - besides great responsibility - big energy drain, especially where Internet of Things (IoT) devices are considered. Indeed, despite significant improvements in design and manufacturing, energy efficiency remains a critical design consideration for IoT, particularly for devices operating continuous sensing. The energy footprint of these devices has traditionally been measured using hardware power monitors (such as Monsoon power meter), which provide an accurate view of instantaneous power use. However, power meters require direct connection with the device's power source (such as battery) and hence can be used to measure energy drain only on devices with detachable power sources."
 
 # Summary. An optional shortened abstract.
 #summary: "..."
@@ -44,7 +41,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: "https://helda.helsinki.fi/bitstreams/66ca45ec-b697-4f83-a002-858302cd74a2/download"
+url_pdf: "https://www.researchgate.net/profile/Agustin-Zuniga-3/publication/338532964_Estimating_Energy_Footprint_Using_Thermal_Imaging/links/5f16da1aa6fdcc9626a43b2d/Estimating-Energy-Footprint-Using-Thermal-Imaging.pdf"
 #url_code: ''
 #url_dataset: ''
 #url_poster: ''

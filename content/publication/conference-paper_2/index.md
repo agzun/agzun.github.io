@@ -1,17 +1,16 @@
 ---
-title: COSINE - Collaborator selector for cooperative multi-device sensing and computing
+title: Evaluating energy-efficiency using thermal imaging
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - Huber Flores
-  - admin
-  - Farbod Faghihi
+  - Jonatan Hamberg
   - Xin Li 
-  - Samuli Hemminki 
-  - Sasu Tarkoma
-  - Pan Hui
+  - Titti Malmivirta
+  - admin
+  - Eemil Lagerspetz
   - Petteri Nurmi
 
 # Author notes (optional)
@@ -19,11 +18,11 @@ authors:
 #  - 'Equal contribution'
 #  - 'Equal contribution'
 
-date: '2020-03-23T00:00:00Z'
-doi: 'https://doi.org/10.1109/PerCom45495.2020.9127364'
+date: '2019-02-22T00:00:00Z'
+doi: 'https://doi.org/10.1145/3301293.3302364'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2020-03-23T00:00:00Z'
+publishDate: '2019-02-22T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -31,10 +30,10 @@ publishDate: '2020-03-23T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *IEEE International Conference on Pervasive Computing and Communications*
-publication_short: In *IEEE International Conference on Pervasive Computing and Communications*
+publication: In *ACM International Workshop on Mobile Computing Systems and Applications* (pp. 147-152)
+publication_short: In *ACM International Workshop on Mobile Computing Systems and Applications (HotMobile)* (pp. 147-152)
 
-abstract: Pervasive availability of programmable smart de-vices is giving rise to sensing and computing scenarios that involve collaboration between multiple devices. Maximizing the benefits of collaboration requires careful selection of devices with whom to collaborate as otherwise collaboration may be interrupted prematurely or be sub-optimal for the characteristics of the task at hand. Existing research on collaborative scenarios has mostly focused on providing mechanisms that can establish and harness collaboration, without considering how to maximally benefit from it. In this paper, we contribute by developing COSINE as a novel approach for selecting collaborators in multi-device computing scenarios. COSINE identifies and recommends collaborators based on a novel information theoretic measure based on Markov trajectory entropy. Rigorous experimental benchmarks carried out using a large-scale dataset of device-to-device encounters demonstrate that COSINE can significantly improve collaboration benefits compared to current state-of-the-art solutions, increasing expected duration of collaboration and reducing variability of collaborations..
+abstract: Energy-efficiency remains a critical design consideration for mobile and wearable systems, particularly those operating continuous sensing. Energy footprint of these systems has traditionally been measured using hardware power monitors (such as Monsoon power meter) which tend to provide the most accurate and holistic view of instantaneous power use. Unfortunately applicability of this approach is diminishing due to lack of detachable batteries in modern devices. In this paper, we propose an innovative and novel approach for assessing energy footprint of mobile and wearable systems using thermal imaging. In our approach, an off-the-shelf thermal camera is used to monitor thermal radiation of a device while it is operating an application. We develop the general theory of thermal energy-efficiency, and demonstrate its feasibility through experimental benchmarks where we compare energy estimates obtained through thermal imaging against a hardware power monitor.
 
 # Summary. An optional shortened abstract.
 summary: "..."
@@ -49,7 +48,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://helda.helsinki.fi/bitstreams/befdbc08-e699-42f3-b001-323ed9261a9b/download'
+url_pdf: 'https://helda.helsinki.fi/bitstreams/214085d9-abe7-4a38-b93d-5ae8a604db19/download'
 #url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 #url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 #url_poster: ''

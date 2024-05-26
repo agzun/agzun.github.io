@@ -1,16 +1,17 @@
 ---
-title: 'Tortoise or hare? Quantifying the effects of performance on mobile app retention'
+title: COSINE - Collaborator selector for cooperative multi-device sensing and computing
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - admin
   - Huber Flores
-  - Eemil Lagerspetz
+  - admin
+  - Farbod Faghihi
+  - Xin Li 
+  - Samuli Hemminki 
   - Sasu Tarkoma
-  - Pan Hui 
-  - Jukka Manner
+  - Pan Hui
   - Petteri Nurmi
 
 # Author notes (optional)
@@ -18,11 +19,11 @@ authors:
 #  - 'Equal contribution'
 #  - 'Equal contribution'
 
-date: '2019-05-13T00:00:00Z'
-doi: 'https://doi.org/10.1145/3308558.3313428'
+date: '2020-03-23T00:00:00Z'
+doi: 'https://doi.org/10.1109/PerCom45495.2020.9127364'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2019-05-13T00:00:00Z'
+publishDate: '2020-03-23T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -30,13 +31,14 @@ publishDate: '2019-05-13T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *The World Wide Web Conference*
-publication_short: In *The World Wide Web Conference*
+publication: In *IEEE International Conference on Pervasive Computing and Communications* (pp. 1-10)
+publication_short: In *IEEE International Conference on Pervasive Computing and Communications* (pp. 1-10)
 
-abstract: We contribute by quantifying the effect of network latency and battery consumption on mobile app performance and retention, i.e., user's decisions to continue or stop using apps. We perform our analysis by fusing two large-scale crowdsensed datasets collected by piggybacking on information captured by mobile apps. We find that app performance has an impact in its retention rate. Our results demonstrate that high energy consumption and high latency decrease the likelihood of retaining an app. Conversely, we show that reducing latency or energy consumption does not guarantee higher likelihood of retention as long as they are within reasonable standards of performance. However, we also demonstrate that what is considered reasonable depends on what users have been accustomed to, with device and network characteristics, and app category playing a role. As our second contribution, we develop a model for predicting retention based on performance metrics. We demonstrate the benefits of our model through empirical benchmarks which show that our model not only predicts retention accurately, but generalizes well across application categories, locations and other factors moderating the effect of performance.
+abstract: Pervasive availability of programmable smart de-vices is giving rise to sensing and computing scenarios that involve collaboration between multiple devices. Maximizing the benefits of collaboration requires careful selection of devices with whom to collaborate as otherwise collaboration may be interrupted prematurely or be sub-optimal for the characteristics of the task at hand. Existing research on collaborative scenarios has mostly focused on providing mechanisms that can establish and harness collaboration, without considering how to maximally benefit from it. In this paper, we contribute by developing COSINE as a novel approach for selecting collaborators in multi-device computing scenarios. COSINE identifies and recommends collaborators based on a novel information theoretic measure based on Markov trajectory entropy. Rigorous experimental benchmarks carried out using a large-scale dataset of device-to-device encounters demonstrate that COSINE can significantly improve collaboration benefits compared to current state-of-the-art solutions, increasing expected duration of collaboration and reducing variability of collaborations..
 
 # Summary. An optional shortened abstract.
 summary: "..."
+
 tags: []
 
 # Display this page in the Featured widget?
@@ -47,7 +49,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://helda.helsinki.fi/bitstreams/cb943aa4-3bb9-4b02-83df-925953666dec/download'
+url_pdf: 'https://helda.helsinki.fi/bitstreams/befdbc08-e699-42f3-b001-323ed9261a9b/download'
 #url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 #url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 #url_poster: ''
