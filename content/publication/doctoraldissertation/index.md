@@ -35,7 +35,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: "https://agustin-zuniga/AgustinZuniga-DoctoralDissertation.pdf"
+url_pdf: "https://agustin-zuniga.com/AgustinZuniga-DoctoralDissertation.pdf"
 #url_code: ''
 #url_dataset: ''
 #url_poster: ''
