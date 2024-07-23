@@ -1,29 +1,29 @@
 ---
-title: COSINE - Collaborator selector for cooperative multi-device sensing and computing
+title: PENGUIN - aquatic plastic pollution sensing using AUVs
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - Huber Flores
-  - admin
-  - Farbod Faghihi
-  - Xin Li 
-  - Samuli Hemminki 
+  - admin 
+  - Naser Hossein Motlagh
+  - Mohan Liyanage
+  - Monica Passananti
   - Sasu Tarkoma
-  - Pan Hui
+  - Moustafa Youssef
   - Petteri Nurmi
 
 # Author notes (optional)
 #author_notes:
 #  - 'Equal contribution'
-#  - 'Equal contribution'
+#  - 'Equal contribution' #yyyy-mm-dd
 
-date: '2020-03-23T00:00:00Z'
-doi: 'https://doi.org/10.1109/PerCom45495.2020.9127364'
+date: '2020-06-19T00:00:00Z'
+doi: 'https://doi.org/10.1145/3396864.3399704'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2020-03-23T00:00:00Z'
+publishDate: '2020-06-19T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -31,10 +31,10 @@ publishDate: '2020-03-23T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *IEEE International Conference on Pervasive Computing and Communications* (pp. 1-10)
-publication_short: In *IEEE International Conference on Pervasive Computing and Communications* (pp. 1-10)
+publication: In Proceedings of the *ACM Workshop on Micro Aerial Vehicle Networks, Systems, and Applications (DroNet)* (pp. 1-6)
+publication_short: In *ACM Workshop on Micro Aerial Vehicle Networks, Systems, and Applications* (pp. 1-6)
 
-abstract: Pervasive availability of programmable smart de-vices is giving rise to sensing and computing scenarios that involve collaboration between multiple devices. Maximizing the benefits of collaboration requires careful selection of devices with whom to collaborate as otherwise collaboration may be interrupted prematurely or be sub-optimal for the characteristics of the task at hand. Existing research on collaborative scenarios has mostly focused on providing mechanisms that can establish and harness collaboration, without considering how to maximally benefit from it. In this paper, we contribute by developing COSINE as a novel approach for selecting collaborators in multi-device computing scenarios. COSINE identifies and recommends collaborators based on a novel information theoretic measure based on Markov trajectory entropy. Rigorous experimental benchmarks carried out using a large-scale dataset of device-to-device encounters demonstrate that COSINE can significantly improve collaboration benefits compared to current state-of-the-art solutions, increasing expected duration of collaboration and reducing variability of collaborations.
+abstract: Underwater plastic pollution is a significant global concern, affecting everything from marine ecosystems to climate change and even human health. Currently, obtaining accurate information about aquatic plastic pollutants at high spatial and temporal resolution is difficult as existing methods are laborious (e.g., dive surveys), restricted to a subset of plastics (e.g., aerial imaging for floating debris), have limited resolution (e.g., beach surveys), or are unsuited for aquatic environments (e.g., wireless sensing or Fourier-transform infrared spectroscopy). We propose PENGUIN, a work-in-progress AUV-based solution for identifying and classifying aquatic plastic pollutants. PENGUIN has been designed as the first system that can both recognize pollutants and classify them according to specifics of the material. We present the overall design of PENGUIN, introducing the different components of the architecture, and presenting current status of development. We also present results of plastic classification experiments using optical sensing, demonstrating that simple PPG sensors provide a low-cost and energy-efficient solution for classifying different plastics. Our solution can easily monitor larger underwater areas than what current techniques offer while at the same time capturing a wider range of pollutants.
 
 # Summary. An optional shortened abstract.
 summary: "..."
@@ -49,7 +49,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://helda.helsinki.fi/bitstreams/befdbc08-e699-42f3-b001-323ed9261a9b/download'
+url_pdf: 'https://researchportal.helsinki.fi/files/137148767/PENGUIN_Aquatic_Plastic_Pollution_Sensing_using_AUVs.pdf'
 #url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 #url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 #url_poster: ''

@@ -11,7 +11,7 @@ authors:
 #- "Equal contribution"
 #- "Equal contribution"
 date: "2020-06-15T00:00:00Z"
-doi: "https://doi.org/10.1109/MC.2022.3143087"
+doi: "https://doi.org/10.1145/3397324"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-06-15T00:00:00Z"
