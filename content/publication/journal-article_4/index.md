@@ -1,5 +1,5 @@
 ---
-title: "Estimating Energy Footprint using Thermal Imaging"
+title: "(M)ad to see me?: Intelligent Advertisement Placement: Balancing User Annoyance and Advertising Effectiveness"
 authors:
 - Ngoc Thi Nguyen
 - admin
