@@ -1,11 +1,11 @@
 ---
-title: Characterizing Everyday Objects using Human Touch{:} Thermal Dissipation as a Sensing Modality
+title: Characterizing Everyday Objects using Human Touch - Thermal Dissipation as a Sensing Modality
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - HHilary Emenike
+  - Hilary Emenike
   - Farooq Dar
   - Mohan Liyanage
   - Rajesh Sharma
